@@ -26,16 +26,11 @@ pip install requests
 ### Download the Github Repository
 Create the directory accordingly
 '''
-
           Main Dir
             |
           Models
             |
-          Research______Object Detection
-            |              |
-Main File   |           Utils
-            |              |
-          Object Detection.py 
+          Research
 '''
 
 In Object Detection.py I have used Post API so that model can publish the count of the bad brick to the server. 
