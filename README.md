@@ -32,5 +32,13 @@ Models
 |
 Research
 ```
+File Linked as 
 
+```bash
+Main File___ Resource---> Object_Detection.py
+                              |               |
+                              |              Utils
+                           Object Detection___|   
+```                           
+                          
 In Object Detection.py I have used Post API so that model can publish the count of the bad brick to the server. 
