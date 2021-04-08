@@ -1,0 +1,9 @@
+item {
+  id: 1
+  name: 'good brick'
+}
+
+item {
+  id: 2
+  name: 'bad brick'
+}
